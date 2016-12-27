@@ -1,10 +1,10 @@
-# rotfiles
+# scrapbox
 
 > 🛠
 
-[![Travis-CI](https://api.travis-ci.org/ostera/rotfiles.svg)](https://travis-ci.org/ostera/rotfiles)
-[![Codecov branch](https://img.shields.io/codecov/c/github/ostera/rotfiles/master.svg)](https://codecov.io/gh/ostera/rotfiles)
+[![Travis-CI](https://api.travis-ci.org/ostera/scrapbox.svg)](https://travis-ci.org/ostera/scrapbox)
+[![Codecov branch](https://img.shields.io/codecov/c/github/ostera/scrapbox/master.svg)](https://codecov.io/gh/ostera/scrapbox)
 
 ## License
 
-See [LICENSE](https://github.com/ostera/rotfiles/blob/master/LICENSE).
+See [LICENSE](https://github.com/ostera/scrapbox/blob/master/LICENSE).
